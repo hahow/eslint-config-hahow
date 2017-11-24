@@ -10,6 +10,7 @@
         "strict": ["error", "global"],
         "arrow-parens": "error",
         "prefer-arrow-callback": "error",
-        "arrow-body-style": ["error", "as-needed"]
+        "arrow-body-style": ["error", "as-needed"],
+        "no-shadow": "error"
     }
 }
