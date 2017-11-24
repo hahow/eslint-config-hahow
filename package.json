@@ -11,11 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/hahow/eslint-config-hahow.git"
   },
-  "keywords": [
-    "hahow",
-    "eslint",
-    "eslint-config"
-  ],
+  "keywords": ["hahow", "eslint", "eslint-config"],
   "author": "Hahow Team",
   "license": "MIT",
   "bugs": {

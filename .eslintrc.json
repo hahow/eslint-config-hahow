@@ -1,15 +1,16 @@
 {
-    "extends": "standard",
-    "parserOptions": {
-        "sourceType": "script"
-    },
-    "rules": {
-        "no-var": "error",
-        "object-shorthand": "error",
-        "prefer-template": "error",
-        "strict": ["error", "global"],
-        "arrow-parens": "error",
-        "prefer-arrow-callback": "error",
-        "arrow-body-style": ["error", "as-needed"]
-    }
+  "extends": "standard",
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "rules": {
+    "arrow-body-style": ["error", "as-needed"],
+    "arrow-parens": "error",
+    "no-shadow": "error",
+    "no-var": "error",
+    "object-shorthand": "error",
+    "prefer-arrow-callback": "error",
+    "prefer-template": "error",
+    "strict": ["error", "global"]
+  }
 }
