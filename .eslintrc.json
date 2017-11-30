@@ -11,6 +11,7 @@
     "object-shorthand": "error",
     "prefer-arrow-callback": "error",
     "prefer-template": "error",
-    "strict": ["error", "global"]
+    "strict": ["error", "global"],
+    "standard/computed-property-even-spacing": "off"
   }
 }
