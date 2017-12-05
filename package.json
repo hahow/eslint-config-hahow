@@ -18,7 +18,7 @@
     "url": "https://github.com/hahow/eslint-config-hahow/issues"
   },
   "homepage": "https://github.com/hahow/eslint-config-hahow#readme",
-  "dependencies": {
+  "devDependencies": {
     "eslint": "~4.11.0",
     "eslint-config-standard": "~10.2.1",
     "eslint-plugin-import": "~2.8.0",
